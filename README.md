@@ -6,12 +6,12 @@
 <img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/data-img.png" height="250" alt="data" /><br/>
 * 本实验模型存在models下，其中本文提出的模型是TACNN，TACNN-attention是模型去掉attention层的对比模型<br>
 * 本模型分为三层，基于CNN的特征提取层，注意力层和预测层，详细结构见下图<br>
-<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/model.png" height="250" alt="data" /><br/>
+<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/model.png" height="250" alt="model" /><br/>
 * 通过train.ipynb训练模型，train-visulizaiton.ipynb展示了包含句子级解释的返回，训练过程如下图所示
-<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/train-img.png" height="250" alt="data" /><br/>
+<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/train-img.png" height="250" alt="train" /><br/>
 * 最终的训练结果如下所示<br>
-<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/result1.png" height="50" alt="data" /><br/>
-<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/result2.png" height="250" alt="data" /><br/>
+<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/result1.png" height="50" alt="result1" /><br/>
+<img src="https://github.com/sleepindogg/Final-Project-Review/blob/master/imgs/result2.png" height="250" alt="result2" /><br/>
 
 
 
